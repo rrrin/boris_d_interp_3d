@@ -30,3 +30,4 @@
 *.exe
 *.out
 *.app
+/boris_interp_D_3d/x64
